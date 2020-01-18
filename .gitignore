@@ -1,0 +1,4 @@
+#These directories do not affect the project
+.idea/
+__pycache__/
+venv/
